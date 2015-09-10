@@ -1,0 +1,98 @@
+threshold_training_log.txt
+start training
+====================
+___iteration 1___
+training example 1
+weights:
+	0	0	0	0
+output: -1
+training example 2
+weights:
+	0.02	-0.02	0.02	-0.02
+output: -1
+training example 3
+weights:
+	0.04	0	0.04	0
+output: -1
+training example 4
+weights:
+	0.04	0	0.04	0
+output: -1
+Error for this iteration: 4
+
+___iteration 2___
+training example 1
+weights:
+	0.04	0	0.04	0
+output: -1
+training example 2
+weights:
+	0.06	-0.02	0.06	-0.02
+output: -1
+training example 3
+weights:
+	0.08	0	0.08	0
+output: -1
+training example 4
+weights:
+	0.08	0	0.08	0
+output: -1
+Error for this iteration: 4
+
+___iteration 3___
+training example 1
+weights:
+	0.08	0	0.08	0
+output: -1
+training example 2
+weights:
+	0.1	-0.02	0.1	-0.02
+output: -1
+training example 3
+weights:
+	0.12	0	0.12	0
+output: -1
+training example 4
+weights:
+	0.12	0	0.12	0
+output: -1
+Error for this iteration: 4
+
+___iteration 4___
+training example 1
+weights:
+	0.12	0	0.12	0
+output: -1
+training example 2
+weights:
+	0.14	-0.02	0.14	-0.02
+output: -1
+training example 3
+weights:
+	0.16	0	0.16	0
+output: -1
+training example 4
+weights:
+	0.16	0	0.16	0
+output: -1
+Error for this iteration: 4
+
+___iteration 5___
+training example 1
+weights:
+	0.16	0	0.16	0
+output: -1
+training example 2
+weights:
+	0.18	-0.02	0.18	-0.02
+output: -1
+training example 3
+weights:
+	0.2	0	0.2	0
+output: 1
+training example 4
+weights:
+	0.18	-0.02	0.18	0.02
+output: -1
+Error for this iteration: 0
+
