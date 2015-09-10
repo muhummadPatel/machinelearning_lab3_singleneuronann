@@ -1,5 +1,5 @@
 CPP=g++
-CPPFLAGS=-std=c++11 -g
+CPPFLAGS=-std=c++11
 EXE_NAME=lab3
 
 $(EXE_NAME): main.cpp neuron.h neuron.cpp net.h net.cpp
